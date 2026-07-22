@@ -1,0 +1,7 @@
+.env
+tracking.json
+followup_log.txt
+__pycache__/
+*.pyc
+.DS_Store
+resume/*

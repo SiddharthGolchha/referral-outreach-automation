@@ -1,0 +1,19 @@
+Hi {name},
+
+I hope you're doing well!
+
+I came across the {job_title} opening at {company} (Job ID: {job_id}) and thought it aligned well with my experience.
+
+Job link: {job_link}
+
+I'm currently a Software Engineer at Iron Mountain with 2+ years of experience building scalable microservices, REST APIs, and event-driven systems using Java, Spring Boot, Kafka, and AWS. Over the past few years, I've worked on designing and delivering backend services with a focus on reliability, performance, and maintainability.
+
+If you're comfortable doing so, I'd really appreciate a referral for this role. If you're not the right person, I'd be grateful if you could point me to someone who might be able to help.
+
+I've attached my resume for reference, and I'm happy to provide any additional information if needed.
+
+Thanks for your time and consideration—I really appreciate it!
+
+Best Regards,
+{my_name}
+{my_phone} | {my_email} | {my_linkedin}

@@ -1,0 +1,9 @@
+Hi {name},
+
+Just following up on my note from a couple of days ago about the {job_title} role (Job ID: {job_id}) at {company}. I know things get busy, so no pressure at all — just wanted to make sure it didn't get buried.
+
+If you're able to refer me, I'd really appreciate it. And if not, totally understand — thanks either way for considering it!
+
+Best,
+{my_name}
+{my_phone} | {my_email} | {my_linkedin}

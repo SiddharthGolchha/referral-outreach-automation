@@ -1,0 +1,15 @@
+Hi {name},
+
+I hope you're doing well. I recently applied for the {job_title} role (Job ID: {job_id}) at {company} — {job_link}
+
+I'm a Software Engineer with 2+ years of experience building Java/Spring Boot microservices, event-driven systems with Kafka, and cloud deployments on AWS/GCP. At Iron Mountain, I've worked on post-trade settlement microservices for regulatory reporting, and I've also shipped a few Kafka-based microservices projects on the side.
+
+I noticed you're part of the team at {company} and wanted to reach out directly. If my background looks like a good fit after reviewing my resume, I'd really appreciate a referral — and if it's not something you're able to help with, no worries at all.
+
+I've attached my resume for reference. Happy to share more details or hop on a quick call if that's useful.
+
+Thanks so much for your time!
+
+Best,
+{my_name}
+{my_phone} | {my_email} | {my_linkedin}
